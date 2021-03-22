@@ -1,0 +1,13 @@
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\bin\Debug\DiagnosticCenter.exe.config
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\bin\Debug\DiagnosticCenter.exe
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\bin\Debug\DiagnosticCenter.pdb
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.csprojAssemblyReference.cache
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.Properties.Resources.resources
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.csproj.GenerateResource.cache
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.csproj.CopyComplete
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.exe
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.pdb
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.Splash.resources
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.Login.resources
+C:\Users\Documents\source\repos\DiagnosticCenter\DiagnosticCenter\obj\Debug\DiagnosticCenter.Doctors.resources
